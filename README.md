@@ -23,10 +23,6 @@ These files will be used to create a **MySQL database** for analysis.
 - 📘 **Word Document**: Detailed explanations of the project's objectives, methodology, and findings.  
 - 📊 **PowerPoint Presentation**: Key insights and visualizations summarized effectively.  
 
----
-## 📧 **Mail Me**  
-If you have any questions, feel free to reach out at:  
-[**datascientist.ld1981@gmail.com**](mailto:datascientist.ld1981@gmail.com)  
 
 ### 3️⃣ **🚀 Execute the Project**  
 - **Jupyter Notebook**: Open `Final GEC-DPD Project.ipynb` to perform EDA, visualize data, and interact with the analysis.  
@@ -45,4 +41,8 @@ Ensure the following tools are installed:
 
 ## 🤝 **Contributions**  
 Feel free to **fork** the repository and contribute by improving the analysis or visualizations. Your input is highly appreciated!  
+---
+## 📧 **Mail Me**  
+If you have any questions, feel free to reach out at:  
+[**datascientist.ld1981@gmail.com**](mailto:datascientist.ld1981@gmail.com)  
 
